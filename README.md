@@ -124,3 +124,7 @@ After editing the sources, rebuild *Add New Account* with the same command as in
 - **Sign-in finished in the wrong window.** Quit all Claude windows except the account you're signing in to, then sign in again.
 - **"Can't find the account"** from a copied launcher. The folder was moved. Use the launcher inside the folder, or copy it again from there.
 - **After an update, an extra account's window shows your default account.** Claude restarts with the default account after updating; open the other account again from its launcher.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
