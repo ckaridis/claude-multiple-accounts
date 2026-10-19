@@ -1,0 +1,8 @@
+# Account data: logins, cookies and caches. Never commit these.
+Accounts/
+*.nosync/
+
+# Apps are built locally (zsh .source/make-launcher.sh . --build); launchers contain local paths.
+*.app/
+
+.DS_Store
